@@ -1,4 +1,4 @@
-# micto-reddit (Active record model)
+# micro-reddit (Active record model)
 
 In this project we worked on rails' Active Record Model and build models for Reddit e.g. User with validated user data, Posts with validations and comments on posts
 
